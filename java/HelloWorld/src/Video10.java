@@ -14,5 +14,7 @@ public class Video10 {
 
         var numero3= "15";
         System.out.println("numero3 = " + numero3);
+        var numero4= "16";
+        System.out.println("numero4 = " + numero4);
     }
 }
